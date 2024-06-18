@@ -7,13 +7,13 @@ Programming
 
 # Members:
 
-*Carlos Chiluisa
+* Carlos Chiluisa
 
 ### PYTHON PROJECT WE CREATE THIS README TO INDICATE WHAT THE PROGRAM IS USED FOR AND THE FUNCTIONALITY
 
 # Program display
 
-*Used language and libraries/packages: Python"
+* Used language and libraries/packages: Python"
 
 # Program functionality
 
