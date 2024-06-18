@@ -9,13 +9,13 @@ Programming
 
 * Carlos Chiluisa
 
-### PYTHON PROJECT WE CREATE THIS README TO INDICATE WHAT THE PROGRAM IS USED FOR AND THE FUNCTIONALITY
-
 # Program display
 
 * Used language and libraries/packages: Python"
 
-# Program functionality
+# PROGRAM FUNCIONALITY
+
+* PYTHON PROJECT WE CREATE THIS README TO INDICATE WHAT THE PROGRAM IS USED FOR AND THE FUNCTIONALITY
 
 The program allows the user to enter a number.
 Then check if the number is not negative.
