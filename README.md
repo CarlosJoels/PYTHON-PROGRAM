@@ -31,24 +31,24 @@ Preparation:
 Ensure Python is installed on your computer.
 
 Create the File:
-Copy the Python code provided into a text editor.
-Save the file with a .py extension, e.g., calculate_square_root.py.
-Execute the Script via Terminal:
+* Copy the Python code provided into a text editor.
+* Save the file with a .py extension, e.g., calculate_square_root.py.
+* Execute the Script via Terminal:
 Open Terminal:
 
 Unix/Linux: Use Applications/Utilities folder or Ctrl + Alt + T.
 macOS: Find in Applications/Utilities or Spotlight (Cmd + Space, "Terminal").
 Navigate to Directory:
 
-Use cd to reach calculate_square_root.py, e.g., cd Desktop.
+* Use cd to reach calculate_square_root.py, e.g., cd Desktop.
 Run the Script:
 
-Command: python calculate_square_root.py.
+* Command: python calculate_square_root.py.
 Enter Number:
 
-Prompted to input a number and hit Enter.
+* Prompted to input a number and hit Enter.
 Result Display:
 
-Output displays square root, handles negatives.
+* Output displays square root, handles negatives.
 This method ensures effective Python script execution from terminal, calculating square roots directly via command line.
 
