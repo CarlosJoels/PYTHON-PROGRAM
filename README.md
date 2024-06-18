@@ -1,23 +1,27 @@
 <img src="https://github.com/SNEIDER31LM/SwitchandFuctions/assets/169932054/9f1b9456-818c-4289-acd1-b3b4e573d86d">
 
-# FUCTIONS SWITCH
+# PROJECT PYTHON
 # Subject:
 
 Programming
 
 # Members:
 
-*By Sneider Lechon, Carlos Chiluisa
+*Carlos Chiluisa
 
-### Test project to learn about the functions and switch
+### PYTHON PROJECT WE CREATE THIS README TO INDICATE WHAT THE PROGRAM IS USED FOR AND THE FUNCTIONALITY
 
 # Program display
 
-*Used language and libraries/packages: java
-
-Welcome to our project on the Switch function. In this repository we will explain what this program is for and its functionality.
-uses the Scanner class to read user input from the console. The user is presented with a menu with three options, each of which executes a specific block of code based on the selected option.
+*Used language and libraries/packages: Python"
 
 # Program functionality
 
-# PYTHON-PROGRAM
+The program allows the user to enter a number.
+Then check if the number is not negative.
+If the number is negative, informs the user that the square roots of negative numbers are not defined.
+If the number is not negative, calculate the square root using the math.sqrt() function.
+Finally, it prints the calculated square root or an error message depending on the number entered.
+
+<img src="(https://github.com/CarlosJoels/PYTHON-PROGRAM/assets/169932054/5b37e5b7-2f38-4520-8854-cb2678205fcc)">
+
