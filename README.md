@@ -23,6 +23,8 @@ If the number is negative, informs the user that the square roots of negative nu
 If the number is not negative, calculate the square root using the math.sqrt() function.
 Finally, it prints the calculated square root or an error message depending on the number entered.
 
+
+# CAPTURE OF THE EXECUTION AND FUNCTIONALITY OF THE PROGRAM
 <img src="https://github.com/CarlosJoels/PYTHON-PROGRAM/assets/169932054/5b37e5b7-2f38-4520-8854-cb2678205fcc">
 
 
