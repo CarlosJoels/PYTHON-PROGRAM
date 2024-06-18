@@ -7,7 +7,7 @@ Programming
 
 # Members:
 
-* Carlos Chiluisa
+* Carlos J. Chiluisa
 
 # Program display
 
